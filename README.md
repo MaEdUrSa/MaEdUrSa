@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maedursa&label=Profile%20views&color=0e75b6&style=flat" alt="maedursa" /> </p>
 
-- 🔭 Actualmente no estoy trabajando en [Trabaje en migracion procesar de tarjetas de crédito Nexus a Tsys](En cencosudScotiabank)
+- 🔭 Actualmente no estoy trabajando, Mi ultimo trabajo fue en migracion procesar de tarjetas de crédito Nexus a Tsy (En CencosudScotiabank)
 
 - 🌱 Actualmente estoy aprendiendo **RUBY ON RAILS**
 
