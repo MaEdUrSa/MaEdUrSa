@@ -36,7 +36,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a> 
     <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="60" height="60"/> </a>
-    <a href="https://www.ruby-lang.org/es/" target="_blank" rel="noreferrer"> 
+    <a href="https://www.ruby-lang.org/es/" target="_blank" rel="noreferrer"> </a>
     <img src="https://tse4.mm.bing.net/th?id=OIP.Dt8gj6sp4nGOdBm9ppnTDQAAAA&pid=Api&P=0&h=180" alt="IBM" width="60" height="60"/> </a>
     <a href="https://www.ibm.com/es-es/db2" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent class: "mt-3"</a>
